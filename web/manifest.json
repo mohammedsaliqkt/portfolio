@@ -1,11 +1,11 @@
 {
-    "name": "portfolio",
-    "short_name": "portfolio",
+    "name": "Mohammed Saliq KT - Flutter Developer",
+    "short_name": "Mohammed Saliq",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#000000",
+    "theme_color": "#00E676",
+    "description": "Mohammed Saliq KT - Flutter Developer Portfolio. Creating beautiful, performant mobile and web applications.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
