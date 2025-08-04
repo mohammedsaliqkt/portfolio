@@ -23,7 +23,7 @@ jobs:
           channel: stable
 
       - name: Enable Web Support
-        run: fhow to change initial loading in web
+        run: flutter config --enable-web
 
       - name: Install Dependencies
         run: flutter pub get
